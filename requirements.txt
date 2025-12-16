@@ -96,3 +96,8 @@ gevent==23.9.1
 
 # Security
 cryptography==41.0.7
+
+# Machine Learning
+scikit-learn
+numpy
+joblib
